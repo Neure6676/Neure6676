@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Zhenyuan
 #### Research and Development
 ![Research and Development](https://imgzhenyuanzhang.s3.ca-central-1.amazonaws.com/banner.png)
 
