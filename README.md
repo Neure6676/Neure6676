@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Arturs
+#### Research and Development
+![Research and Development](https://imgzhenyuanzhang.s3.ca-central-1.amazonaws.com/banner.png)
 
-My name is Zhenyuan Zhang, a second-year Master's student specializing in computer science. I enjoy learning all kinds of technical skills ranging from programming languages like C++, Java JavaScript and Python to modern development tools such as Docker, Git and AWS.
+My name is Zhenyuan Zhang, a second-year Master's student specializing in computer science. I enjoy learning all kinds of technical skills ranging from programming languages like Java JavaScript and Python to modern development tools such as Docker, Git and AWS.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neure6676)](https://github.com/anuraghazra/github-readme-stats)
+Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
+
+- 👯 I’m looking to collaborate on JCrafter (A testing web app in Java) 
+- ⚡ Fun fact: The pronunciation of my last name (Zhang) is 99% same with "John"  
+
+
+
+
