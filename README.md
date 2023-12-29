@@ -4,7 +4,7 @@
 
 I'm a second-year Master's student specializing in computer science. I enjoy learning all kinds of technical skills ranging from programming languages like Java JavaScript and Python to modern development tools such as Docker, Git and AWS.
 
-Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
+Skills: JAVA / PYTHON / REACT / JS&TS / HTML / CSS
 
 - 👯 I’m looking to collaborate on JCrafter (A testing web app in Java) 
 - ⚡ Fun fact: The pronunciation of my last name (Zhang) is 99% same with "John"  
