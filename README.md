@@ -6,7 +6,7 @@ I'm currently a second-year computer science master student at Boston University
 Skills: JAVA / PYTHON / REACT / JS&TS 
 
 - 👯 I’m looking to collaborate on JCrafter (A one-stop testing web app in Java) 
-- ⚡ Fun fact: The pronunciation of my last name (Zhang) is 99% same with "John"  
+- ⚡ Fun fact: The pronunciation of my last name (Zhang) is 99% same with "John"
 
 
 
