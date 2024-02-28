@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Zhenyuan! 
+### Hi there 👋, my name is Zhenyuan!
 #### Research and Development
 ![Research and Development](https://imgzhenyuanzhang.s3.ca-central-1.amazonaws.com/Screenshot+2024-01-31+at+2.37.18%E2%80%AFPM.png)
 
